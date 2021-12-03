@@ -66,7 +66,7 @@ Run `carthage update` to build the framework and drag the built `PKHUD.framework
 
 To install using Swift Package Manager, add this to the `dependencies:` section in your Package.swift file:
 ```swift
-.package(url: "https://github.com/pkluz/PKHUD.git", .upToNextMinor(from: "5.4.0")),
+.package(url: "https://github.com/pkluz/PKHUD.git", .upToNextMinor(from: "5.5.0")),
 ```
 
 ## How To
